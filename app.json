@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "200126",
-    "slug": "200126",
+    "name": "smartplant",
+    "slug": "smartplant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
